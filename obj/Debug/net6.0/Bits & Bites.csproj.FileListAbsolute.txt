@@ -1,0 +1,29 @@
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.csproj.AssemblyReference.cache
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.AssemblyInfoInputs.cache
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.AssemblyInfo.cs
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.csproj.CoreCompileInputs.cache
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\bin\Debug\net6.0\Bits & Bites.exe
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\bin\Debug\net6.0\Bits & Bites.deps.json
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\bin\Debug\net6.0\Bits & Bites.runtimeconfig.json
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\bin\Debug\net6.0\Bits & Bites.dll
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\bin\Debug\net6.0\Bits & Bites.pdb
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.dll
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\refint\Bits & Bites.dll
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.pdb
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\Bits & Bites.genruntimeconfig.cache
+D:\Code\C#\Kurse\K22_4N22_4\Cirjeu\Bits & Bites\Bits & Bites\obj\Debug\net6.0\ref\Bits & Bites.dll
+C:\Users\danie\Downloads\Bits & Bites\bin\Debug\net6.0\Bits & Bites.exe
+C:\Users\danie\Downloads\Bits & Bites\bin\Debug\net6.0\Bits & Bites.deps.json
+C:\Users\danie\Downloads\Bits & Bites\bin\Debug\net6.0\Bits & Bites.runtimeconfig.json
+C:\Users\danie\Downloads\Bits & Bites\bin\Debug\net6.0\Bits & Bites.dll
+C:\Users\danie\Downloads\Bits & Bites\bin\Debug\net6.0\Bits & Bites.pdb
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.AssemblyInfo.cs
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.dll
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\refint\Bits & Bites.dll
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.pdb
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.genruntimeconfig.cache
+C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\ref\Bits & Bites.dll
