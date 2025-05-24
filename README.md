@@ -29,5 +29,3 @@ To run the Console App directly, launch
 ---
 
 The code was written independently by me. The class only provided a general idea of what the project should do. 
-
-( `UebungPolymorphie.docx` )
