@@ -27,3 +27,18 @@ C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\refint\Bits & Bites.dll
 C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.pdb
 C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\Bits & Bites.genruntimeconfig.cache
 C:\Users\danie\Downloads\Bits & Bites\obj\Debug\net6.0\ref\Bits & Bites.dll
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\bin\Debug\net6.0\Bits & Bites.exe
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\bin\Debug\net6.0\Bits & Bites.deps.json
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\bin\Debug\net6.0\Bits & Bites.runtimeconfig.json
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\bin\Debug\net6.0\Bits & Bites.dll
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\bin\Debug\net6.0\Bits & Bites.pdb
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.AssemblyInfo.cs
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.sourcelink.json
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.dll
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\refint\Bits & Bites.dll
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.pdb
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\Bits & Bites.genruntimeconfig.cache
+C:\Users\danie\Documents\Stuff\Anwendungsentwicklung\Projects\Lutz + Grub Academy\Bits-Bites\obj\Debug\net6.0\ref\Bits & Bites.dll

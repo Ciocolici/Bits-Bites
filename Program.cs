@@ -15,5 +15,10 @@ internal class Program
         Console.ForegroundColor = ConsoleColor.DarkCyan;
         Console.WriteLine($"\n\nGesamtpreis: {bestellung.BerechneBestellung()}€\n\n");
         Console.ForegroundColor= ConsoleColor.Black;
+
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        Console.WriteLine("Drücke eine Taste, um das Programm zu beenden.");
+        Console.ReadKey();
+        Console.ForegroundColor = ConsoleColor.Black;
     }
 }
