@@ -3,6 +3,7 @@
 A C# (CSharp) Console App exercise project developed during my retraining as an IT Specialist in Application Development at Lutz + Grub Academy.
 
 The program simulates placing an order at a fictional shop for different types of products, drinks, food, and internet tickets. It demonstrates the use of polymorphism, class hierarchies, and discount calculation logic.
+
 Note: This program is not meant to be interactive. It runs as a simulation with predefined data to showcase object-oriented design and logic.
 
 ### Features
